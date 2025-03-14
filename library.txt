@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Love",
+        "author": "Jazz",
+        "year": 2025,
+        "genre": "1st",
+        "read": true
+    }
+]
